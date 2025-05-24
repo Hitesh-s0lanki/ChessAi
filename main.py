@@ -1,7 +1,6 @@
 import pygame
 import sys
 
-import board
 from constants import *
 from game import Game
 from square import Square
